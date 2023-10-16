@@ -12,4 +12,5 @@ O arquivo CSV gerado foi importado para um banco de dados SQL, especificamente o
 3ª Parte: Construção do Dashboard
 Para a construção do dashboard, optei pelo uso do Power BI. Nele, disponibilizei um resumo desses dados, incluindo a média de vendas em diferentes períodos, as vendas totais ao longo dos anos e uma comparação entre a quantidade vendida e o volume abastecido. É possível filtrar esses valores por tipo de combustível e por data. 
 
-![image](https://github.com/suzananeves/dash_projeto/assets/66887891/dea1d611-9a86-4451-ae8e-a3687891e895)
+Você pode conferir o video do projeto aqui:
+https://1drv.ms/f/s!Ammqz_WVMlT1hJcLELf6da3QY--kiA?e=FyUll9
